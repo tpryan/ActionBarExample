@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" actionBarVisible="false" 
+		xmlns:s="library://ns.adobe.com/flex/spark" title="HomeView">
+	<s:TextArea left="10" right="10" top="10" bottom="10" text="Just some placeholder data, nothing exciting." />
+	
+</s:View>
